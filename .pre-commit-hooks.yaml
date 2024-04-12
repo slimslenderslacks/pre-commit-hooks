@@ -1,0 +1,5 @@
+-   id: docker-policy
+    name: Docker Policy
+    description: check for Docker policy reviews
+    entry: vonwig/docker-policy
+    language: docker_image
